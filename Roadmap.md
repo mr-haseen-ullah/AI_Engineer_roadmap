@@ -135,7 +135,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
    - Learn about object detection, segmentation, and classification techniques
 
 2. **Video Analysis**
-   - Explore advanced capabilities with models like Google Gemini 1.5 Pro
+   - Explore advanced capabilities with models like Google Gemini
    - Project: [Video narration](https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding)
    - Study techniques for tracking objects and analyzing motion in videos
    - Project: Create a sports analysis tool that can break down player movements and tactics
@@ -144,6 +144,3 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 Happy learning and building!
 
-- Zack
-
-[my twitter](https://x.com/wenquai)
